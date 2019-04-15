@@ -1,0 +1,11 @@
+/Users/pranithakeerthi/Projects/altSrc/altSrc/bin/Debug/netcoreapp2.1/altSrc.deps.json
+/Users/pranithakeerthi/Projects/altSrc/altSrc/bin/Debug/netcoreapp2.1/altSrc.runtimeconfig.json
+/Users/pranithakeerthi/Projects/altSrc/altSrc/bin/Debug/netcoreapp2.1/altSrc.runtimeconfig.dev.json
+/Users/pranithakeerthi/Projects/altSrc/altSrc/bin/Debug/netcoreapp2.1/altSrc.dll
+/Users/pranithakeerthi/Projects/altSrc/altSrc/bin/Debug/netcoreapp2.1/altSrc.pdb
+/Users/pranithakeerthi/Projects/altSrc/altSrc/obj/Debug/netcoreapp2.1/altSrc.csprojAssemblyReference.cache
+/Users/pranithakeerthi/Projects/altSrc/altSrc/obj/Debug/netcoreapp2.1/altSrc.csproj.CoreCompileInputs.cache
+/Users/pranithakeerthi/Projects/altSrc/altSrc/obj/Debug/netcoreapp2.1/altSrc.AssemblyInfoInputs.cache
+/Users/pranithakeerthi/Projects/altSrc/altSrc/obj/Debug/netcoreapp2.1/altSrc.AssemblyInfo.cs
+/Users/pranithakeerthi/Projects/altSrc/altSrc/obj/Debug/netcoreapp2.1/altSrc.dll
+/Users/pranithakeerthi/Projects/altSrc/altSrc/obj/Debug/netcoreapp2.1/altSrc.pdb
